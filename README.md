@@ -26,3 +26,8 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+
+###
+Ran into issue renderign get /notes. Unable to fix
+![fmaldmed github io_Fernando-s-Awesome-Note-Taker_](https://user-images.githubusercontent.com/113961091/227382158-15f06743-6d47-42a3-91c8-b27e0b22c483.png)
